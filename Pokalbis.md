@@ -10,3 +10,9 @@ VU-lecture-Unix-2019 klausia:
 
 KarolisGineitis atsako:
 - Iškritau pro langą.
+
+Domantas klausia:
+- kaip cia taip?
+
+Domantas atsako:
+- nzn, tikiuos taip padariau.
